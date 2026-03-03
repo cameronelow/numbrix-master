@@ -1,0 +1,5 @@
+{
+  "name": "Numbrix Master",
+  "description": "A 6x6 logic puzzle where you connect consecutive numbers from 1 to 36 in a continuous path.",
+  "requestFramePermissions": []
+}
